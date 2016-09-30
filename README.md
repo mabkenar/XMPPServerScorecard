@@ -23,7 +23,7 @@ Make sure to follow the following rules:
 
 ## Running locally
 
-StaticGen is built with Middleman. To install and run locally:
+XMPPServerScorecard is built with Middleman. To install and run locally:
 
     git clone https://github.com/mabkenar/XMPPServerScorecard.git
     cd XMPPServerScorecard
