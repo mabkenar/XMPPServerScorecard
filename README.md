@@ -1,6 +1,9 @@
-# StaticGen
+#  XMPP Server Scorecard
 
-[StaticGen.com](http://www.staticgen.com), a leaderboard of top open-source static site generators.
+
+XMPP Server Scorecard, a leaderboard of top XMPP servers.
+
+This is a fork of netlify/staticgen and it is still containing information about static site generators. Stay tuned for more updates.
 
 ## Contributing
 
