@@ -5,9 +5,13 @@ XMPP Server Scorecard, a leaderboard of top XMPP servers.
 
 This is a fork of netlify/staticgen and it is still containing information about static site generators. Stay tuned for more updates.
 
+An extensive data set about XMPP server software is on [Zash/XMPP-Features](https://github.com/Zash/XMPP-Features) page. 
+However, **XMPP Server Scorecard** aims to provide information about user-facing XMPP providers, i.e., website that people use to make XMPP accounts.
+
+
 ## Contributing
 
-Missing a static site generator here? Just fork the repo and add your generator
+Missing a XMPP server here? Just fork the repo and add your generator
 as a `<name>.md` in the `source/projects` folder.
 
 Make sure to follow the following rules:
@@ -21,8 +25,8 @@ Make sure to follow the following rules:
 
 StaticGen is built with Middleman. To install and run locally:
 
-    git clone https://github.com/netlify/staticgen.git
-    cd staticgen
+    git clone https://github.com/mabkenar/XMPPServerScorecard.git
+    cd XMPPServerScorecard
     bundle install
     bundle exec middleman
 
@@ -36,10 +40,6 @@ Then set these environment variables before running middleman:
     export GIST_ID=ID_OF_YOUR_GIST
 
 Then middleman will use the Gist you specified to archive stats (stars, forks and issues) for the repositories.
-
-## Netlify
-
-StaticGen is built and maintained by [Netlify](https://www.netlify.com), a hosting and automation service for static websites and apps.
 
 ## License
 This project is licensed under the [MIT license](http://opensource.org/licenses/MIT).
