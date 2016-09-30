@@ -6,7 +6,7 @@ XMPP Server Scorecard, a leaderboard of top XMPP servers.
 This is a fork of netlify/staticgen and it is still containing information about static site generators. Stay tuned for more updates.
 
 An extensive data set about XMPP server software is on [Zash/XMPP-Features](https://github.com/Zash/XMPP-Features) page. 
-However, **XMPP Server Scorecard** aims to provide information about user-facing XMPP providers, i.e., website that people use to make XMPP accounts.
+However, **XMPP Server Scorecard** aims to provide information about user-facing XMPP **providers**, i.e., website that people use to make XMPP accounts.
 
 
 ## Contributing
